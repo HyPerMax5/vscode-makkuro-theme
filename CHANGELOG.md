@@ -2,8 +2,14 @@
 
 All notable changes to the "makkuro" extension will be documented in this file.
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
 ## [Unreleased]
 
-- Initial release
+- Nothing so far.
+
+## [0.0.1] - January 10, 2024
+
+### Added
+- Everything!
+
+[0.0.1]:https://github.com/HyPerMax5/vscode-makkuro-theme/releases/tag/v0.0.1

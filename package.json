@@ -3,6 +3,7 @@
   "displayName": "Makkuro Dark",
   "description": "Comfy OLED dark theme.",
   "version": "0.0.1",
+  "publisher": "HyPerMax5",
   "repository": {
     "type": "git",
     "url": "https://github.com/HyPerMax5/vscode-makkuro-theme"
