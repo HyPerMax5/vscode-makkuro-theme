@@ -1,7 +1,7 @@
 {
   "name": "makkuro",
   "displayName": "Makkuro",
-  "description": "Comfy dark theme.",
+  "description": "Comfy dark theme OLEDs.",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.85.0"
