@@ -116,20 +116,29 @@
 
 
 		//Status bar colours
-		//"statusBar.background":"#ff0000",
+		"statusBar.background": "#111111",
+		"statusBar.noFolderBackground": "#302932",
 		"statusBar.debuggingBackground":"#FF60003f",
 		"statusBarItem.remoteBackground":"#FF60003f",
 		"statusBar.focusBorder":"#FF60003f",
+	
 
 
 		//Title bar colours
 		"titleBar.activeBackground":"#000000",
 
 
-		//Menu bar colours
+		//Menu and menubar colours
+		"menu.background": "#111111",
+		//"menu.foreground": "#FF6000",
+		"menu.selectionBackground": "#141414",
 		"menubar.selectionBorder":"#FF60003f",
 		"menubar.selectionForeground":"#FF6000",
-		"menubar.selectionBackground": "#e0e0e00f",
+		"menubar.selectionBackground": "#ff00000f",
+		"menu.selectionForeground": "#FF6000",
+		"menu.separatorBackground":  "#e0e0e00f",
+
+
 		//Command center command bar center top
 		//"commandCenter.background":"#141414",
 		"commandCenter.border":"#FF60003f",
@@ -140,13 +149,12 @@
 
 
 		//Notification colours
-		//"notificationCenter.border":"#ff0000"
+		"notifications.background": "#000000",
+		"notifications.foreground": "#e0e0e0",
+		"notificationCenterHeader.foreground": "#e0e0e0",
+		"notificationCenterHeader.background":"#000000",
+		"notifications.border": "#00000000",
 
-		
-
-
-
-		
 		
 		
 	},
