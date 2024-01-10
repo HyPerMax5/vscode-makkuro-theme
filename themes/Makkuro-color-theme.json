@@ -1,10 +1,154 @@
 {
 	"name": "Makkuro",
 	"colors": {
-		"editor.background": "#263238",
-		"editor.foreground": "#eeffff",
-		"activityBarBadge.background": "#007acc",
-		"sideBarTitle.foreground": "#bbbbbb"
+		//Base colours
+		"focusBorder":"#FF60003f",
+		"foreground":"#e0e0e0",
+		
+		//"disabledForeground":"#ff0000",
+		"widget.border":"#FF60003f",
+		//"widget.shadow":"#FF6000",
+		//"selection.background":"#ffa300"
+		//"descriptionForeground":"#ff0000"
+		"errorForeground":"#ff0000",
+		"icon.foreground":"#FF6000",
+		"sash.hoverBorder":"#FF60003f",
+
+
+		//Text colours
+		//"textBlockQuote.background":"#15ff00",
+		//"textBlockQuote.border":"#00fafa",
+		//"textCodeBlock.background":"#ff0000",
+		"textLink.activeForeground":"#ffa300",
+		"textLink.foreground":"#FF6000",
+		//"textPreformat.foreground":"#ff0000",
+		"textPreformat.background":"#FF60003f",
+		//"textSeparator.foreground":"#ff0000",
+
+
+		//Action colours
+		"toolbar.hoverBackground":"#e0e0e00f",
+		//"toolbar.hoverOutline":"#ff0000",
+		//"toolbar.activeBackground":"#ff0000",
+		
+
+		//Button colours
+		"button.background":"#FF60005f",
+		//"button.hoverBackground":"#ff0000",
+		"checkbox.background":"#e0e0e00f",
+
+
+		//Dropdown colours
+		//"dropdown.background":"#ff0000",
+		//"dropdown.listBackground":"#ff0000",
+		
+
+		//Input colours
+		"input.background":"#141414",
+
+
+		//Scrollbar colours
+		//"scrollbar.shadow":"#ff0000",
+		//"scrollbarSlider.activeBackground":"#FF6000",
+		"scrollbarSlider.background":"#e0e0e00f",
+		"scrollbarSlider.hoverBackground":"#FF60003f",
+
+
+		//Badge colours
+		//"badge.foreground":"#ff0000",
+		//"badge.background":"#ff0000",
+
+
+		//Progress bar colours
+		"progressBar.background":"#FF60003f",
+
+
+		//Activity bar colours
+		"activityBar.background":"#000000",
+		"activityBar.dropBorder":"#e0e0e00f",
+		"activityBar.foreground":"#e0e0e09f",
+		"activityBarBadge.background":"#9b3b00",
+		"activityBar.activeBackground":"#e0e0e00f",
+
+
+		//Profile colours
+		"profileBadge.background":"#FF60003f",
+
+
+		//Side bar colours
+		"sideBar.background":"#000000",
+		//"sideBar.border":"#FF60003f",
+		"sideBar.dropBackground":"#e0e0e00f",
+		"sideBarSectionHeader.background":"#141414",
+
+
+		//Minimap colours
+		"minimap.findMatchHighlight":"#FF6000",
+		"minimap.selectionHighlight":"#FF6000",
+
+
+		//Editor groups and tab colours
+		"editorGroup.border":"#e0e0e00f",
+		"editorGroup.dropBackground":"#e0e0e00f",
+		"editorGroupHeader.noTabsBackground":"#000000",
+		"editorGroupHeader.tabsBackground":"#000000",
+		//"editorGroup.emptyBackground":"#ff0000",
+		"tab.activeBackground":"#000000",
+		"tab.border":"#FF60003f",
+		"tab.inactiveBackground":"#000000",
+		"tab.hoverBackground":"#141414",
+		"sideBySideEditor.horizontalBorder":"#e0e0e00f",
+		"sideBySideEditor.verticalBorder":"#e0e0e00f",
+
+
+		//Editor colours
+		"editor.background":"#000000",
+		//"editorLineNumber.foreground":"#ff0000",
+		"editorLineNumber.activeForeground":"#FF6000",
+		"editorCursor.foreground":"#FF60005f",
+
+		"editor.selectionBackground":"#FF60003f",
+		//"editor.selectionHighlightBackground":"#ff0000",
+		//"editor.selectionHighlightBorder":"#FF6000",
+		"editor.wordHighlightBackground":"#FF60003f",
+		"editor.findMatchBackground":"#FF60009f",
+		"editorWidget.background":"#000000",
+
+
+		//Status bar colours
+		//"statusBar.background":"#ff0000",
+		"statusBar.debuggingBackground":"#FF60003f",
+		"statusBarItem.remoteBackground":"#FF60003f",
+		"statusBar.focusBorder":"#FF60003f",
+
+
+		//Title bar colours
+		"titleBar.activeBackground":"#000000",
+
+
+		//Menu bar colours
+		"menubar.selectionBorder":"#FF60003f",
+		"menubar.selectionForeground":"#FF6000",
+		"menubar.selectionBackground": "#e0e0e00f",
+		//Command center command bar center top
+		//"commandCenter.background":"#141414",
+		"commandCenter.border":"#FF60003f",
+
+
+		//Command center colours
+		
+
+
+		//Notification colours
+		//"notificationCenter.border":"#ff0000"
+
+		
+
+
+
+		
+		
+		
 	},
 	"tokenColors": [
 		{
