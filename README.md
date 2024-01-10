@@ -1,16 +1,21 @@
-# makkuro README
+<body>
+ <body style="background-color:black;color:grey">
 
-## Working with Markdown
+<h1>Makkuro</h1>
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+<h2>Screenshots</h2>
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+<div>
+ <img src="./screenshots/Screenshot.png" alt="screnshot" style="width: 640px;height: 360px;">
+</div>
 
-## For more information
+<h2>Info</h2>
+<div><p>Oled dark theme I made because I wanted to make my own theme.
+ I personally love OLED themes but none of the available ones really clicked with me,
+ besides I wanted to try making my own regardless.
+</p>
+VSCode themes are a pain to make, however <a href="https://github.com/microsoft/vscode-generator-code">Yo Code</a>
+makes the intial setup extremely bearable.
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
-
-**Enjoy!**
+</div>
+</body>
